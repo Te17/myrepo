@@ -1,11 +1,10 @@
 /* Reset some default browser styles */
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
-  background-color: #aa2323;
+  font-family: Arial, sans-serif;got
+  background-color: #239aaa;
   color: #333333;
 }
-
 /* Headings */
 h1 {
   color: #2c3e50;
